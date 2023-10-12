@@ -4,10 +4,10 @@ import math
 import sys
 
 # Define colors
-blue = (0, 0, 260)
+blue = (0, 0, 255)
 black = (0, 0, 0)
-red = (260, 0, 0)
-yellow = (260, 260, 0)
+red = (255, 0, 0)
+yellow = (255, 255, 0)
 
 # Set board dimensions
 rowCount = 6
